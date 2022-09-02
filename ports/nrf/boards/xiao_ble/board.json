@@ -1,0 +1,20 @@
+{
+    "deploy": [
+        "./deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "Bluetooth 5.0",
+        "Microphone MPM3610",
+        "USB-Type-C",
+        "Breadboard Friendly"
+    ],
+    "images": [
+        "ABX00031_01.iso_998x749.jpg"
+    ],
+    "mcu": "nRF52840",
+    "product": "Seeed XIAO BLE",
+    "thumbnail": "",
+    "url": "https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html",
+    "vendor": "SeeedStudio"
+}
